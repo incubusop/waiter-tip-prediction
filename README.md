@@ -57,3 +57,10 @@ The model estimates the tip amount based on given inputs and provides insights i
 
 scikit-learn
 jupyter
+
+
+requirements.txt
+
+pandas
+numpy
+plotly

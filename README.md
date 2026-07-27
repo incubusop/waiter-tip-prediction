@@ -42,7 +42,7 @@ This project predicts the tip amount given to a waiter using a Linear Regression
 ## Model Evaluation Metrics
 
 * Mean Squared Error
-* R squared Score
+* R squared Scores
 
 ## Results
 
@@ -64,3 +64,4 @@ requirements.txt
 pandas
 numpy
 plotly
+
